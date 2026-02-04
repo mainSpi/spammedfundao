@@ -1,0 +1,4 @@
+.env
+processing/cvs.txt
+__pycache__/
+processing/__pycache__/

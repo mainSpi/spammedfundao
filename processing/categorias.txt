@@ -1,0 +1,23 @@
+Conversa
+	01 -> prova com professor X
+		"alguém já fez prova com o professor tal?"
+	02 -> contato de alguém
+		"preciso do wpp ou contato do professor tal"
+	03 -> tem alguém em tal hospital, UPA, etc?
+		"Alguém no Evandro por agora??" ou  "Alguém na UPA alemão?"
+	04 -> figurinhas (STK + .webp)
+	05 -> endswith "<Mídia oculta>" ou "(arquivo anexado)"
+	06 -> conversas genéricas
+		todas as outras mensagens que não sejam SPAM
+
+Spam
+	07 -> propaganda de Ligas
+		"entre na liga de tal especialidade, aula aberta da liga tal"
+	08 -> propaganda de Festas
+		prefa, intermed, chopada, etc
+	09 -> vendas de ingresso
+		"vendo ingresso Gala", prefa, etc. "Compro ingresso" tbm
+	10 -> propaganda de Cursos ou materiais
+		medway, medcof, meta-analysis, "vendo livros do medcurso"
+	11 -> propagandas genéricas
+		todo tipo de outras propagandas ou anúncios. Vagas de IC, aluguel, vendas de produtos ou serviços, etc.
